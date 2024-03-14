@@ -1,1 +1,5 @@
-mongodb+srv://ashrafali707050:vV3JpPyarrbB6T47@cluster0.dha23yp.mongodb.net/r12?retryWrites=true&w=majority
+200 Ok
+202 Accepted
+204 No Content
+401-Unathorized
+404 Not Found
