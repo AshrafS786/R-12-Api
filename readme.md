@@ -3,3 +3,17 @@
 204 No Content
 401-Unathorized
 404 Not Found
+
+
+
+
+ // createdAt: {
+    //     type: Date,
+    //     default: Date.now
+    // },
+    // updatedAt: {
+    //     type: Date,
+    //     default: Date.now
+    // }
+
+    OR {timestamp: true}
